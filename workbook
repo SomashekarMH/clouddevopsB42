@@ -1,2 +1,2 @@
 hi
-somu !!!!
+somu !!!!git status
